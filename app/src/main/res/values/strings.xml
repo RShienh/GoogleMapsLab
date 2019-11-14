@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fun Maps</string>
+    <string name="title_activity_maps">Fun Maps</string>
+    <string name="search">Search</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="enter_address_city_or_zip_code">Enter Address, City or Zip Code</string>
+</resources>
